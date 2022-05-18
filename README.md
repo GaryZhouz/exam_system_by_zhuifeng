@@ -11,12 +11,8 @@
 
 `请务必将文档看完, 很多问题都可以在文档中找到解决, 也可以加入群一起交流, 群号: 970804317 下面也会有二维码`
 - # [ :point_right: 线上体验](http://exam.wzzz.fun)
-``` 
-   管理员账号: wzz 
-   密码: 12345
-   Tips: 为了各位有良好的体验,请不要更改演示账号的权限以及地址, 如账号异常,请加q群970804317私信群主~!
-```
-- [码云地址](https://gitee.com/wzhouzhou/exam_system)
+
+- [码云地址-后续维护将在码云上继续](https://gitee.com/wzhouzhou/exam_system)
 - [Github地址](https://github.com/wzz1206414629/exam_system_by_zhuifeng)
 
 ## 更新记录
@@ -181,8 +177,6 @@ npm run serve #启动项目服务
 [高仿网易云音乐](https://gitee.com/wzhouzhou/vue_wzz_cloudMusic)
 
 ## 问题
-
-![image-20201108203026741](./preview/image-20201108203026741.png)
 
 - 开发学习问题或者好的建议可以给出反馈交流, 一起学习
 - 如果有需要QQ群里提问，请在提问前先完成以下过程：
